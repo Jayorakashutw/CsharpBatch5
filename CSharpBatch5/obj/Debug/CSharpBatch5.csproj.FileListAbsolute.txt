@@ -1,0 +1,8 @@
+C:\Users\Avinash\Source\Repos\CSharpBatch5\bin\Debug\CSharpBatch5.exe.config
+C:\Users\Avinash\Source\Repos\CSharpBatch5\bin\Debug\CSharpBatch5.exe
+C:\Users\Avinash\Source\Repos\CSharpBatch5\bin\Debug\CSharpBatch5.pdb
+C:\Users\Avinash\Source\Repos\CSharpBatch5\obj\Debug\CSharpBatch5.csproj.AssemblyReference.cache
+C:\Users\Avinash\Source\Repos\CSharpBatch5\obj\Debug\CSharpBatch5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avinash\Source\Repos\CSharpBatch5\obj\Debug\CSharpBatch5.csproj.CoreCompileInputs.cache
+C:\Users\Avinash\Source\Repos\CSharpBatch5\obj\Debug\CSharpBatch5.exe
+C:\Users\Avinash\Source\Repos\CSharpBatch5\obj\Debug\CSharpBatch5.pdb
