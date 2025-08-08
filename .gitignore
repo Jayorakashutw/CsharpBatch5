@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/.vs/CSharpBatch5/CopilotIndices/17.14.734.62261
+*.vsidx
+*.suo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.json
+*.pdb
+*.config
+*.cache
+*.lock

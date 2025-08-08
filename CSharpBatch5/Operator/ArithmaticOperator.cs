@@ -10,12 +10,13 @@ namespace CSharpBatch5.Operator
     {
         int num1,num2,result;
         //wap to accept 2 numbers and display its sum
+        // +,-,*,/ and % (remainder)
 
         public void Addition()
         {
             Console.WriteLine("Enter two numbers");
-            num1 = Convert.ToInt32( Console.ReadLine()); //12
-            num2 = Convert.ToInt32((Console.ReadLine()));
+            num1 = Convert.ToInt32( Console.ReadLine()); //12 4 byte
+            num2 = Convert.ToInt32(Console.ReadLine());
 
             result = num1 + num2;
 
