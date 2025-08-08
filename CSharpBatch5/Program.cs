@@ -11,10 +11,8 @@ namespace CSharpBatch5
     {
         static void Main(string[] args)
         {
-            ArithmaticOperator ao = new ArithmaticOperator();
-           ao.Swapping2();
-           // ao.Multiplication();
-           // ArithmaticOperator.Division();
+            Ternary_Com_Log tcl = new Ternary_Com_Log();
+            tcl.CheckCarEligibility();
 
             Console.ReadKey();
         }
