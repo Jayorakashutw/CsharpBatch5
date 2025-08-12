@@ -1,4 +1,5 @@
-﻿using CSharpBatch5.Operator;
+﻿using CSharpBatch5.ConditionalStatement;
+using CSharpBatch5.Operator;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,8 @@ namespace CSharpBatch5
     {
         static void Main(string[] args)
         {
-            Ternary_Com_Log tcl = new Ternary_Com_Log();
-            tcl.CheckCarEligibility();
+            JumpStatement js = new JumpStatement();
+            js.EvenNo();
 
             Console.ReadKey();
         }
