@@ -46,6 +46,8 @@
     <Compile Include="ConditionalStatement\IfExample.cs" />
     <Compile Include="ConditionalStatement\JumpStatement.cs" />
     <Compile Include="ConditionalStatement\SwitchCaseExample.cs" />
+    <Compile Include="Looping\DoWhile.cs" />
+    <Compile Include="Looping\WhileLoop.cs" />
     <Compile Include="Operator\ArithmaticOperator.cs" />
     <Compile Include="Operator\AssignmentOperator.cs" />
     <Compile Include="Operator\Ternary_Com_Log.cs" />
