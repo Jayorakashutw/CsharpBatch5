@@ -1,4 +1,5 @@
 ﻿using CSharpBatch5.ConditionalStatement;
+using CSharpBatch5.Looping;
 using CSharpBatch5.Operator;
 using System;
 using System.Collections.Generic;
@@ -12,8 +13,8 @@ namespace CSharpBatch5
     {
         static void Main(string[] args)
         {
-            JumpStatement js = new JumpStatement();
-            js.EvenNo();
+            DoWhile wl = new DoWhile();
+            wl.number();
 
             Console.ReadKey();
         }

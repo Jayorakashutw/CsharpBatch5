@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharpBatch5",
+    "\\CSharpBatch5\\Operator"
   ],
-  "SelectedNode": "\\C:\\Users\\Avinash\\Source\\Repos\\CsharpBatch2",
+  "SelectedNode": "\\CSharpBatch5\\Operator\\ArithmaticOperator.cs",
   "PreviewInSolutionExplorer": false
 }
