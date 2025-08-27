@@ -13,8 +13,10 @@ namespace CSharpBatch5
     {
         static void Main(string[] args)
         {
-            DoWhile wl = new DoWhile();
-            wl.number();
+            ForLoop fl = new ForLoop();
+            fl.Factorial();
+            //DoWhile wl = new DoWhile();
+            //wl.number();
 
             Console.ReadKey();
         }

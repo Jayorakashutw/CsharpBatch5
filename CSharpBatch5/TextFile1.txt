@@ -1,0 +1,29 @@
+﻿Looping Questinos
+
+Basic number programs using loop
+	•	Print number from 1 to 10
+	•	print number from 10 to 1
+	•	Print even number between 1 to 50
+	•	print odd number between 1 to 50
+	•	print sum of first 10 natural number 
+	•	Sum of even number between 1 to 100 
+	•	sum of odd number between 1 to 100
+	•	 Factorial of a number
+	•	multiplication table of a number 
+	•	reverse a number
+Digit based Programs
+	•	Count digit of a number
+	•	some of digit of a number
+	•	product of digits of a number 
+	•	palindrome number check
+	•	Armstrong number check
+	•	find greatest digit in a number 
+	•	find smallest digit in a number
+	•	count even and odd digit in a number
+	•	Check prime number 
+	•	check composite number
+Series Program
+	•	Fibonacci series first 10 terms
+	•	some of Fibonacci series print sequence of first 10 natural number
+	•	Reverse multiplication table 
+Pattern
