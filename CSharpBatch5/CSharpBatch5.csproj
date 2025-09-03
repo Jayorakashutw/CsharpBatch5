@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayExample\ArrayBulitInFunctions.cs" />
+    <Compile Include="ArrayExample\MultiArray.cs" />
     <Compile Include="ArrayExample\SingleArray.cs" />
     <Compile Include="ConditionalStatement\IfExample.cs" />
     <Compile Include="ConditionalStatement\JumpStatement.cs" />
