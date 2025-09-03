@@ -1,4 +1,5 @@
-﻿using CSharpBatch5.ConditionalStatement;
+﻿using CSharpBatch5.ArrayExample;
+using CSharpBatch5.ConditionalStatement;
 using CSharpBatch5.Looping;
 using CSharpBatch5.Operator;
 using System;
@@ -13,8 +14,8 @@ namespace CSharpBatch5
     {
         static void Main(string[] args)
         {
-            DoWhile wl = new DoWhile();
-            wl.number();
+            ArrayBuiltInFunctions af = new ArrayBuiltInFunctions();
+            af.ArrayFunctionExample();
 
             Console.ReadKey();
         }
