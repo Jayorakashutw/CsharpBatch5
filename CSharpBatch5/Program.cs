@@ -1,4 +1,5 @@
-﻿using CSharpBatch5.ConditionalStatement;
+﻿using CSharpBatch5.ArrayExample;
+using CSharpBatch5.ConditionalStatement;
 using CSharpBatch5.Looping;
 using CSharpBatch5.Operator;
 using System;
@@ -13,10 +14,10 @@ namespace CSharpBatch5
     {
         static void Main(string[] args)
         {
-            ForLoop fl = new ForLoop();
-            fl.Factorial();
-            //DoWhile wl = new DoWhile();
-            //wl.number();
+            SingleArray sa = new SingleArray();
+            sa.PrimeinArray();
+           //NestedLoop nl=new NestedLoop();
+           // nl.Pattern3();
 
             Console.ReadKey();
         }

@@ -1,0 +1,9 @@
+﻿1. Sorting - Bubble and Selection
+2. Searching - Binary and Linear
+3. Traversing
+4.  WAP to display 
+	Only Even No
+	Only Odd Number
+	Only Prime NO
+	Sum of all even number
+	Sum of all Odd Number
