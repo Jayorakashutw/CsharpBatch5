@@ -43,10 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayExample\SingleArray.cs" />
     <Compile Include="ConditionalStatement\IfExample.cs" />
     <Compile Include="ConditionalStatement\JumpStatement.cs" />
     <Compile Include="ConditionalStatement\SwitchCaseExample.cs" />
     <Compile Include="Looping\DoWhile.cs" />
+    <Compile Include="Looping\Forloop.cs" />
+    <Compile Include="Looping\NestedLoop.cs" />
     <Compile Include="Looping\WhileLoop.cs" />
     <Compile Include="Operator\ArithmaticOperator.cs" />
     <Compile Include="Operator\AssignmentOperator.cs" />
@@ -60,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="ArrayExample\Array.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
