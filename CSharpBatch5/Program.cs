@@ -1,5 +1,6 @@
 ﻿using CSharpBatch5.ArrayExample;
 using CSharpBatch5.ConditionalStatement;
+using CSharpBatch5.Functions;
 using CSharpBatch5.Looping;
 using CSharpBatch5.Operator;
 using System;
@@ -14,8 +15,15 @@ namespace CSharpBatch5
     {
         static void Main(string[] args)
         {
-            ArrayBuiltInFunctions af = new ArrayBuiltInFunctions();
-            af.ArrayFunctionExample();
+            Math_String ms = new Math_String();
+            ms.MathFunction();
+            //JaggedArray ja = new JaggedArray();
+            //ja.JaggedArrayExample();
+            //MultiArray ma = new MultiArray();
+            //ma.TransposeMatrix();
+
+            //ArrayBuiltInFunctions af = new ArrayBuiltInFunctions();
+            //af.ArrayFunctionExample();
 
             Console.ReadKey();
         }

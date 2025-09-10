@@ -1,0 +1,16 @@
+﻿Operator - Done
+Conditional Statements - Done
+	if -else
+	Switch Case
+Loop - Done
+	Whilew
+	Do While
+	For
+Array - Done
+	1D
+	2D
+	Jagged
+	Array In Built Functions
+Function 
+	Math & String
+	User Define

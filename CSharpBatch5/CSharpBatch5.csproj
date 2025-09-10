@@ -44,11 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArrayExample\ArrayBulitInFunctions.cs" />
+    <Compile Include="ArrayExample\JaggedArray.cs" />
     <Compile Include="ArrayExample\MultiArray.cs" />
     <Compile Include="ArrayExample\SingleArray.cs" />
     <Compile Include="ConditionalStatement\IfExample.cs" />
     <Compile Include="ConditionalStatement\JumpStatement.cs" />
     <Compile Include="ConditionalStatement\SwitchCaseExample.cs" />
+    <Compile Include="Functions\Math_String.cs" />
     <Compile Include="Looping\DoWhile.cs" />
     <Compile Include="Looping\Forloop.cs" />
     <Compile Include="Looping\NestedLoop.cs" />
@@ -64,8 +66,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".gitignore" />
     <Content Include="ArrayExample\Array.txt" />
+    <Content Include="Basic Syllabus.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
